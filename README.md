@@ -19,7 +19,7 @@ To use the template, in your folder structure go to:
 
 ![New Screen](/asset/image/new_screen.png)
 
-Then, type in your screen name in camel_case.
+Then, type in your screen name in snake_case.
 
 ![New Screen Name](/asset/image/new_screen_name.png)
 
