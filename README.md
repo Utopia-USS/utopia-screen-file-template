@@ -29,8 +29,6 @@ Created folder structure should look like this:
 
 ## Done!
 
----
-
 You can edit the template in:
 
 > Settings -> Editor -> File and Code Templates -> Files
